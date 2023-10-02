@@ -46,8 +46,7 @@
     "name": "Woof",
     "species": "dog",
     "birthYear": "2013",
-    "description": "Woof is a very talkative and sweet pup. She loves beets, plums, cuddles and jumping over low fences.",
-    "photo": "https://learnwebcode.github.io/bootcamp-pet-data/photos/woof.jpg"
+    "description": "Woof is a very talkative and sweet pup. She loves beets, plums, cuddles and jumping over low fences."
   },
   {
     "_id": {
